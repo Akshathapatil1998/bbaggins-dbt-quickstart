@@ -1,4 +1,19 @@
-Welcome to your new dbt project!
+Welcome to my new dbt project!
+This is hands on project to explore dbt and its funcnatiliotie
+
+# dbt Hands-On Project
+
+This repository is a hands-on project to explore **dbt (Data Build Tool)** and its functionalities. The goal is to build a data pipeline with transformation, testing, and documentation using dbt. This project provides a simple setup for learning and experimenting with dbt's core capabilities.
+
+## Project Overview
+
+This project covers:
+- **Data Modeling**: Transform raw data into analytics-ready tables.
+- **Testing**: Ensure data quality with built-in and custom dbt tests.
+- **Documentation**: Generate and explore data pipeline documentation.
+- **Incremental Models**: Learn how to implement and manage incremental loads.
+- **Macros**: Use Jinja and dbt macros for reusable SQL transformations.
+
 
 ### Using the starter project
 
